@@ -45,6 +45,9 @@ profiles:
     url: https://scholar.google.com/citations?hl=en&user=je1AOpoAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/my-orcid?emailVerified=true&orcid=0009-0000-8445-5608
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 
 interests:
   - Artificial Intelligence
