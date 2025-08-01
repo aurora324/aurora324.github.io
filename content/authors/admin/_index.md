@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I'm Bingqin Wang, a B.E. degreee student of computer science at Southern University of Science and Technology(SUSTech). My research interests include image processing, large language model and machine learning. I am actively seeking for 26 fall PhD position.
