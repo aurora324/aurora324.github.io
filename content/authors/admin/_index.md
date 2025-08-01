@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 王禀钦
+title: Bingqin Wang
 
 # Name pronunciation (optional)
 name_pronunciation: Bingqin Wang
