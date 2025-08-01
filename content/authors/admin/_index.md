@@ -184,4 +184,4 @@ languages:
 
 ## About Me
 
-Hi! I'm Bingqin Wang, a B.E. degreee student of computer science at Southern University of Science and Technology(SUSTech). My research interests include image processing, large language model and machine learning. I am actively seeking for 26 fall PhD position.
+Hi! I'm Bingqin Wang, a B.E. degree student of computer science at Southern University of Science and Technology(SUSTech). My research interests include image processing, large language model and machine learning. I am actively seeking for 26 fall PhD position.
